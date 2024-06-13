@@ -1,18 +1,11 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hudson-and-thames/mlfinlab/master/docs/source/logo/Hudson%20%26%20Thames_verticalblack.png" height="300"><br>
-</div>                                                                                                                                               
 
 # Skill Set Challenge!
-[Hudson & Thames](https://hudsonthames.org/) has provided the following skillset challenge to allow potential researchers to gauge if they have the required skills to take part in the [apprenticeship program](https://hudsonthames.org/apprenticeship-program/).
 
 ## Your Mission:
 The following assignment is an opportunity for you to highlight your skillset and show us what you are made of! It tests your ability to implement academic research for the broader quantitative finance community, and to do it in style!
 
 ### Briefing
 
-<div align="center">
-  <img src="https://hudsonthames.org/wp-content/uploads/2020/09/Pairs-Selection-1.jpg" height="300"><br>
-</div>  
 
 Read the following paper: [Enhancing a Pairs Trading strategy with the application of Machine Learning](http://premio-vidigal.inesc.pt/pdf/SimaoSarmentoMSc-resumo.pdf). 
 
@@ -34,17 +27,6 @@ In a Jupyter Notebook (python):
 * Your code for the implementation should be contained in a .py file that you import into your notebook. Please don't have large chunks of code in your notebook.
 * Your function must take in a pandas DataFrame, not a file directory.
 
-## Institutional - Need to Know
-* **Company Name**: Hudson and Thames Quantitative Research
-* **Company Brief**: Our core focus is on the implementation of research within buy-side asset management.
-* **Company Website**: [https://hudsonthames.org/](https://hudsonthames.org/)
-* **Locked Achievement**: Quantitative Researcher & Developer
-* **Location**: Virtual Team (We are all in different time zones across the world.)
-* **Education**: Familiarity with machine learning, statistics, and applied maths. We care a lot more about what you can do rather than your exact qualifications.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hudson-and-thames/mlfinlab/master/docs/source/logo/Hudson%20%26%20Thames_verticalblack.png" height="150"><br>
-</div>
 
 ### Day on Day Activity
 * Implement academic research for machine learning in finance.
